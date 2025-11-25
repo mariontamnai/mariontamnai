@@ -1,12 +1,61 @@
- Hey🤚
--  I’m Marion Tamnai
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on  open-source projects, JavaScript-based web apps, or front-end development tasks. 
-- 📫 How to reach me mariontamnai@gmail.com
-- 😄 Pronouns: She
-- ⚡ Fun fact: I love solving coding puzzles while listening to country music
-<!---
-mariontamnai/mariontamnai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there, I'm Marion Tamnai
+
+🌸 Front-end Developer | UI Lover | Problem Solver
+I’m passionate about building clean, responsive, and user-friendly web interfaces.
+I focus on crafting beautiful layouts, improving user experience, and writing clean, organized code.
+
+🚀 What I’m Working On
+
+Strengthening my front-end development skills
+
+Building polished, responsive web projects
+
+Exploring open-source contributions
+
+Enhancing my UI/UX design approach
+
+💡 What I Bring
+
+Strong interest and growing expertise in front-end development
+
+A good eye for clean, minimal, and modern UI
+
+Strong problem-solving skills (powered by country music 😄🤠)
+
+Consistency, creativity, and a love for learning
+
+🛠️ Tech Stack
+
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+TypeScript
+
+Node.js
+
+Git & GitHub
+
+VS Code
+
+🤝 Looking to Collaborate On
+
+Front-end development tasks
+
+UI-focused projects
+
+Open-source contributions
+
+Portfolio-level real-world web projects
+
+📫 Let’s Connect
+
+Email: mariontamnai@gmail.com
+
+⚡ Fun Fact
+
+I love solving coding puzzles while listening to country music — it’s my productivity hack 🎧✨

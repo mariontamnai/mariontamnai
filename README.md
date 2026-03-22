@@ -4,7 +4,7 @@
 I’m passionate about building clean, responsive, and user-friendly web interfaces.
 I focus on crafting beautiful layouts, improving user experience, and writing clean, organized code.
 
- What I’m Working On
+What I’m Working On
 
 Strengthening my front-end development skills
 
@@ -14,7 +14,7 @@ Exploring open-source contributions
 
 Enhancing my UI/UX design approach
 
- What I Bring
+What I Bring
 
 Strong interest and growing expertise in front-end development
 
@@ -24,33 +24,11 @@ Strong problem-solving skills (powered by country music 😄🤠)
 
 Consistency, creativity, and a love for learning
 
- Tech Stack
+Tech Stack React, TypeScript, Angular & Node.js
 
-HTML
-
-CSS
-
-JavaScript
-
-React
-
-TypeScript
-
-Angular
-
-Node.js
-
-Git & GitHub
-
-VS Code
-
- Looking to Collaborate On
+Looking to Collaborate On
 
 Front-end development tasks
-
-UI-focused projects
-
-Open-source contributions
 
 Portfolio-level real-world web projects
 
